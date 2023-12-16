@@ -1,0 +1,33 @@
+	//Stack Init
+	static void StackInit(){
+
+	}
+	// 링크 Null 확인 함수
+	static boolean IsEmpty()
+	{
+
+	}
+	
+	// 마지막(Top) 데이터 확인 함수
+	static int SPeek(int[] stackArr)
+	{			
+
+	}
+	static void PrintStack(int[] stackArr)
+	{
+
+	}
+	// PUSH 함수 
+	static void SPush(int[] stackArr, int data)
+	{
+
+
+	}
+
+	// POP 함수  
+	static void SPop(int[] stackArr)
+	{
+
+
+	
+	}
